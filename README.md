@@ -58,9 +58,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JonathanTeixeira09/JonathanTeixeira09/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JonathanTeixeira09/count.svg?"  />
+</div>
 
 ###
 

@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jonathan Teixeira and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Jonathan Teixeira and I am an Information Systems academic at UFN</h2>
 
 ###
 

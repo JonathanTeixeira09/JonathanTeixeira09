@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jonathan Teixeira and I am an Information Systems academic at UFN</h2>
+<h2 align="left">Hi 👋! My name is Jonathan Teixeira, and I hold a degree in Information Systems from UFN.</h2>
 
 ###
 <div align="center">
